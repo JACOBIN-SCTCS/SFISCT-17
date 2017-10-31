@@ -1,0 +1,2 @@
+# SFISCT-17
+App made for  campaigning in SCT ELECTIONS 2017( DIDNT MADE IT TO THE PLAYSTORE)
